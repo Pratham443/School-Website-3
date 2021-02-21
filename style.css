@@ -41,6 +41,11 @@
     float: right;
 }
 
+
+.news-item {
+    height: 400px;
+}
+
 .row::after {
     content: "";
     clear: both;
